@@ -1,6 +1,6 @@
 # TUXEDO Keyboard Backlight Control
 
-![Screenshot](./asset/screenshot.png "Screenshot")
+![Screenshot](./assets/screenshot.png "Screenshot")
 
 ## Description
 
